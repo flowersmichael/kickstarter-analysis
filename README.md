@@ -38,6 +38,7 @@ Theater campaigns launched in May and June in particular are not only the most s
 
 We can generally ignore the canceled plays with respect to launch date because the number of plays canceled is very small and also steady over the course of the year.
 
+![Outcomes Based on Launch Date](https://github.com/flowersmichael/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Analysis of Outcomes Based on Goals
 
