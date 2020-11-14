@@ -38,7 +38,8 @@ Theater campaigns launched in May and June in particular are not only the most s
 
 We can generally ignore the canceled plays with respect to launch date because the number of plays canceled is very small and also steady over the course of the year.
 
-![Outcomes Based on Launch Date](https://github.com/flowersmichael/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+![Outcomes Based on Fundraising Goals](https://github.com/flowersmichael/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+
 
 ### Analysis of Outcomes Based on Goals
 
@@ -52,7 +53,7 @@ The high-dollar goal campaigns should possibly be viewed as outliers, or special
 
 Third, our client may want to consider reducing her fundraising goal to something closer to $5,000. We observe that nearly 75% of campaigns in this goal range are successful. In contrast, the campaigns that effort to raise between $5k-$25k have roughly a 50/50 chance of meeting their goal.
 
-![Outcomes Based on Fundraising Goals](https://github.com/flowersmichael/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![Outcomes Based on Launch Date](https://github.com/flowersmichael/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 
 ### Challenges and Difficulties Encountered
