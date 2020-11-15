@@ -33,7 +33,7 @@ Looking at the chart below, it's clear that the early summer months of May and J
 
 More theater campaigns are launched in these three months than any of the other months, with key takeaways being that not only do May and June have the highest absolute number of successful theater campaigns, but the success:failure ratio is also highest during May and June.
 
-*We can generally ignore the canceled theater campaigns with respect to launch date because the number canceled is very small and also steady over the course of the year.*
+*(We can generally ignore the canceled theater campaigns with respect to launch date because the number canceled is very small and also steady over the course of the year.)*
 
 ![Outcomes Based on Fundraising Goals](https://github.com/flowersmichael/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
