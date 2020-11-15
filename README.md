@@ -5,9 +5,9 @@ Our client is interested in launching a Kickstarter campaign to fund a theater p
 
 We zeroed in on two specific factors:
 
-*Launch Date: What time of year the campaign is launched?
+*Launch Date: What time of year the campaign is launched?*
 
-*Goals: What's the campaign's target financial goal?
+*Goals: What's the campaign's target financial goal?*
 
 
 ### Purpose
