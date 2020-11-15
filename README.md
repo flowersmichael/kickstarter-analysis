@@ -2,13 +2,13 @@
 
 ## Overview of Project
 
-Our client is interested in launching a Kickstarter campaign to fund a theater production. In this analysis we reviewed Kickstarter campaign data to determine what factors might contribute to whether or not a campaign succeeds or fails. 
+Our client is interested in launching a Kickstarter campaign to fund a theater production. In this analysis we reviewed Kickstarter campaign data to determine what factors might contribute to a campaign's success or failure. 
 
 We zeroed in on two specific factors:
 
 *Launch Date: What time of year the campaign is launched?
 
-*Goals: What's the targeted amount of money being raised in the campaign?
+*Goals: What's the target financial goal in the campaign?
 
 
 ### Purpose
